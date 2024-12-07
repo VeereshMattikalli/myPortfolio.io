@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm Veeresh Mattikalli 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -15,7 +15,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/VeereshMattikalli)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
 
@@ -25,13 +24,13 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Veeresh Mattikalli</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01FE23BCS222</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Dr. Prakash Hegde</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
